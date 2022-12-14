@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* .container {
+  border: 1px solid black;
+  height: 620px;
+  width: 410px;
+  background-image: url("retro-character-sprite-sheet.jpg");
+  background-repeat: no-repeat;
+  animation: walk 0.5s steps(4) infinite;
+}
+
+@keyframes walk {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -1600px 0;
+  }
+}
+
+.own-pixel-art {
+  border: 1px solid black;
+  height: 160px;
+  width: 160px;
+  background-image: url("main-character-pixelated-v2r0_0000s_0000.jpg");
+  background-repeat: no-repeat;
+}
+
+.own-pixel-art:hover {
+  animation: walk2 1s steps(1) infinite;
+  cursor: pointer;
+}
+
+@keyframes walk2 {
+  0% {
+    background-image: url("main-character-pixelated-v2r0_0000s_0000.jpg");
+  }
+  25% {
+    background-image: url("main-character-pixelated-v2r0_0000s_0001.jpg");
+  }
+  50% {
+    background-image: url("main-character-pixelated-v2r0_0000s_0000.jpg");
+  }
+  75% {
+    background-image: url("main-character-pixelated-v2r0_0000s_0002.jpg");
+  }
+  100% {
+    background-image: url("main-character-pixelated-v2r0_0000s_0000.jpg");
+  }
+} */
+
+#own-pixel-art-directions {
+  width: 5%;
+}
