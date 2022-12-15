@@ -1,4 +1,4 @@
-![Alt text](assets/main-character-12.png)
+![Alt text](assets/main-character-40-2.png)
 
 # pixel-rpg-game
 JavaScript RPG game
