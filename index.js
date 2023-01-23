@@ -10,7 +10,7 @@ let currentDirection = {
   upCounter: 1,
   downCounter: 0,
 };
-let currentDirection2 = [];
+let currentDirection2 = {};
 
 const interval = 200;
 let throttle = null;
